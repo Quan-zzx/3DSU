@@ -1,1 +1,2 @@
 # Open-World Scene Graph Generation for Retrieval-Augmented Navigation
+![](https://github.com/Quan-zzx/3DSU/blob/main/image/framework.png)
