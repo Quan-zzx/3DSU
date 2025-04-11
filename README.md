@@ -6,7 +6,7 @@
 ![](https://github.com/Quan-zzx/3DSU/blob/main/image/scene.png?raw=true)
 
 
-![](https://github.com/Quan-zzx/3DSU/blob/main/image/demo.gif?raw=true)   
+![](https://github.com/Quan-zzx/3DSU/blob/main/image/demo.gif)   
 
 
 ## Install
