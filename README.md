@@ -10,4 +10,4 @@
 
 
 ## Install
-Please read this document
+Please read this [document](https://github.com/Quan-zzx/3DSU/blob/main/env.md)
