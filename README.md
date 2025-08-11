@@ -11,3 +11,11 @@
 
 ## Install
 Please read this [document](https://github.com/Quan-zzx/3DSU/blob/main/env.md)
+
+
+## run
+```
+cd 3DSU
+python main.py 
+```
+
